@@ -1,0 +1,19 @@
+# STM32CubeIDE build output
+STM32CubeIDE/Debug/
+STM32CubeIDE/Release/
+
+# Compiled objects and dependency files
+*.o
+*.d
+*.su
+*.cyclo
+
+# Firmware images (generated from source — do not commit)
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# IDE workspace metadata
+.metadata/
